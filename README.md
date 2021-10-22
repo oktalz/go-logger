@@ -2,6 +2,8 @@
 
 ## Go Logger
 
+![CI](https://github.com/haproxytech/go-logger/actions/workflows/actions.yaml/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/haproxytech/go-logger)](https://goreportcard.com/report/github.com/aws/haproxytech/go-logger)
 [![Contributors](https://img.shields.io/github/contributors/haproxytech/go-logger?color=purple)](https://github.com/haproxy/haproxy/blob/master/CONTRIBUTING)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
